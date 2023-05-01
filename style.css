@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+.container {
+	background-color: #222;
+	width: 1000px;
+}
+.box {
+	text-align: center;
+	font-size: 18px;
+	color: yellow;
+	background-color: #fff;
+	border: 1px solid red;
+	border-radius: 10px;
+	width: 200px;
+	height: 200px;
+}
