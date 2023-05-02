@@ -43,3 +43,82 @@ h2 {
 	font-size: 40px;
 	margin-bottom: 60px;
 }
+aside {
+	background-color: #fff;
+	border-radius: 15px;
+	padding: 30px 10px 30px 30px;
+	margin-right: 35px;
+}
+aside a{
+	text-decoration: none;
+	font-size: 25px;
+	color: #555;
+}
+aside a:hover {
+	color: darkgreen;
+}
+h4 {
+	color: #555;
+	font-family: none;
+	font-weight: bold;
+}
+.side-img {
+	width: 300px;
+	margin: 20px 0 30px 0;
+}
+.side-img img {
+	display: block;
+	width: 100%;
+	border: 1px solid black;
+	margin-bottom: 30px;
+}
+
+
+main {
+	background-color: #fff;
+	border-radius: 20px;
+	padding: 30px;
+	margin-bottom: 40px;
+}
+.curs {
+	font-family: none;
+	font-style: italic;
+	font-size: 22px;
+}
+.content-photo {
+	display: flex;
+	justify-content: space-between;
+	width: 95%;
+	text-align: center;
+}
+.content-photo div {
+	width: 150px;
+}
+.content-photo img {
+	display: block;
+	width: 100%;
+	border: 1px solid black;
+}
+.text {
+	font-family: none;
+	font-size: 22px;
+}
+
+
+.article-main {
+	margin-top: 50px;
+	width: 100%;
+}
+.article-photo {
+	width: 100%;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 60px;
+}
+.article-photo img {
+	display: block;
+	width: 100%;
+}
+.article-photo p {
+	font-size: 13px;
+}
