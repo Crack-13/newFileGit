@@ -122,3 +122,33 @@ main {
 .article-photo p {
 	font-size: 13px;
 }
+footer {
+	background-color: #ececec;
+	padding: 100px;
+}
+.footer-src {
+	width: 20%;
+	margin: auto;
+}
+.source {
+	display: flex;	
+	font-size: 18px;
+}
+.source p {
+	margin: 0 10px 0 10px;
+}
+.img-source {
+	display: flex;
+	justify-content: center;
+	margin: 30px 60px 0 0;
+}
+.img-source div {
+	width: 4%;
+}
+.img-source img{
+	width: 100%;
+	display: block;
+}
+.img-1 {
+	margin-right: 30px;
+}
